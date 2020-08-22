@@ -3,6 +3,9 @@
 **Author**: abdulelah
 **Version**: 1.0.1
 
+## The PR
+[Pull Request](https://github.com/abdulelahxd/pythonic-garage-band/pull/1)
+
 ## Overview
 Program which uses Python classes to model a Band made up of different kinds of musicians like Guitarist,Bassist, and Drummer. Musician base class used to handle common functionality which particular kinds of musicians will inherit.
 
